@@ -10,7 +10,7 @@ Reverse network diffusion to remove indirect noise for better inference of gene 
 
 ## Pipeline
 <p align="center">
-  <a href="https://github.com/Wu-Lab/RENDOR/">
+  <a href="https://github.com/Wu-Lab/RENDOR-reproduce">
     <img src="Images/RENDOR.png" alt="Logo">
   </a>
 </p>
